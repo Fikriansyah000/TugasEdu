@@ -1,6 +1,7 @@
-nama : Fikriansyah
+
+Nama : Safira Aulia
 Kelas : 2B
-Asal : Edinburgh
-Alasan Masuk Upi : takdir
-Baru belajar apa hari ini : github
+Asal : cikampek
+Alasan Masuk Upi : mau masuk aja
+Baru belajar apa hari ini: mengenal fitur fitur github
 
