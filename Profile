@@ -1,5 +1,6 @@
-Nama : Aliya Mrchd
+nama : Aliya Mrchd
 Kelas : 2B
 Asal : Edinburgh
 Alasan Masuk Upi : takdir
 Baru belajar apa hari ini : github
+
