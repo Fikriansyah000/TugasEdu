@@ -1,0 +1,45 @@
+Buatlah program simulasi kasir untuk warung kecil. Warung menjual 3 produk berikut:
+
+Kode	Barang	      Harga (Rp)
+A	    Air Mineral	  3.000
+B	    Roti	        5.000
+C	    Mi Instan	    2.500
+
+Program akan menampilkan menu, meminta jumlah barang yang dibeli, menghitung total harga, lalu menampilkan struk belanja sederhana.
+Gunakan fungsi hitungTotal() untuk menghitung total belanja berdasarkan jumlah barang.
+
+Petunjuk Teknis:
+1. Gunakan tipe data int dan float bila perlu.
+2. Gunakan perulangan jika ingin mengulang transaksi.
+3. Gunakan fungsi untuk memisahkan logika perhitungan.
+==========================================================================
+Output yang ditampilkan kepada user sebagai berikut :
+=> berikut adalah inputnya
+=============================
+  SELAMAT DATANG DI WARUNG (Nama warung byteforce)
+=============================
+Menu Hari Ini:
+[A] Air Mineral   - Rp 3.000
+[B] Roti          - Rp 5.000
+[C] Mi Instan     - Rp 2.500
+-----------------------------
+Masukkan jumlah pembelian:
+Air Mineral: (jumlah yang di input dalam satuan)
+Roti       : (jumlah yang di input dalam satuan)
+Mi Instan  : (jumlah yang di input dalam satuan)
+
+=> berikut adalah Output hasil dari pemrosessan data :
+=============================
+         STRUK BELANJA
+=============================
+Air Mineral  x 2 = Rp  6000
+Roti         x 1 = Rp  5000
+Mi Instan    x 3 = Rp  7500
+-----------------------------
+TOTAL BAYAR      = Rp 18500
+=============================
+=> Kemudian tampilkan hasil berikut (sebagai fungsi Looping)
+- Ingin transaksi lagi? (y/n):
+
+-> (jika inputan y = maka kembali input jumlah produkjika n maka = "Terima kasih telah berbelanja!")
+==========================================================================
